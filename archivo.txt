@@ -1,1 +1,1 @@
-Línea 2: Cambio desde carpeta1
+Línea conflictiva: Cambio desde carpeta1
