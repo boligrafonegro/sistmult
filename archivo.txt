@@ -1,2 +1,1 @@
-Línea 1: Texto inicial
-Línea 2: Texto inicial
+Línea 2: Cambio desde carpeta1
