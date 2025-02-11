@@ -1,3 +1,2 @@
-Cambio desde carpeta2
-Cambio desde carpeta1
-Cambio desde carpeta2
+Línea 1: Texto inicial
+Línea 2: Texto inicial
